@@ -1,0 +1,12 @@
+order_id,customer,city,price,qty
+1001,Alice,New York,120.50,2
+1001,Alice,New York,120.50,2
+1002,Bob,Chicago,14500.00,1
+1003,,Boston,80.25,
+1004,Dave,Seattle,abc,3
+1005,Eve,Austin,64.00,5
+1006,Frank,  Denver  ,42.00,0
+1007,Grace,Miami,87.50,4
+1008,Heidi,Los Angeles,99.99,2
+1009,Ivan,San Francisco,110.00,
+1010,Joan,Unknown,50.00,1
